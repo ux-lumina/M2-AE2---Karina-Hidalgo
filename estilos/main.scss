@@ -1,0 +1,27 @@
+@import "footer";
+@import "main";
+@import "header"
+
+//Otras configuraciones
+
+"liveSassCompile.settings.formats": [
+
+// This is the default.
+
+{
+
+ "format": "expanded",
+
+ "extensionName": ".css",
+
+ // null for all three -> denotes the same path as the SASS file
+
+ "savePath": null,
+
+ "savePathReplacementPairs": null,
+
+ 
+
+}
+
+]
